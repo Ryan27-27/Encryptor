@@ -1,0 +1,29 @@
+{
+  "name": "encryptor-app",
+  "version": "1.0.0",
+  "description": "A secure file encryption application with cloud integration and biometric authentication.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "axios": "^0.21.1"
+  },
+  "devDependencies": {
+    "vite": "^2.0.0",
+    "eslint": "^7.0.0",
+    "eslint-plugin-react": "^7.0.0"
+  },
+  "keywords": [
+    "encryption",
+    "cloud",
+    "biometrics",
+    "react"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}
