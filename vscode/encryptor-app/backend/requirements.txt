@@ -1,0 +1,11 @@
+Flask
+pycryptodome
+flask-cors
+requests
+python-dotenv
+bcrypt
+pyjwt
+brotli
+zlib
+pytest
+pytest-flask
